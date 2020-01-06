@@ -9,7 +9,6 @@
   Even as I built my models and cleaned my data, the challenges in creating my model became very much apparent, but first, some research on the problem:
   
  ## Background 
-  
   **What is "Fake News"?**
   We all know fake news. It's dangerous, and everyone other that ourselves are reading it. In a startling case in 2017, the "Pizzagate" conspiracy theory spread through Twitter, 4chan and was later posted on fake news websites, beginning with Your News Wire, culminating in a man firing a rifle in a pizzeria purported by the fake news to have been involved in a pedophile ring.
 
