@@ -87,8 +87,6 @@ Part 1 of the project deals with the Type A dataset example, which is focused on
 Part 2 of the project deals with using Type B datasets to classify news websites outside of the dataset.
 
 
-github
-[Github Repo](https://github.com/tynlong/FakeNewsClassification.git)
 ## Acknowledgments
 - [http://www.opensources.co/](http://www.opensources.co/)
 - [NYTimes Developer](https://developer.nytimes.com/)
