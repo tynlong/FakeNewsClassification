@@ -23,7 +23,7 @@
   **The real damage**
     The term "Fake News" has been shifted from its original meaning of actual fake information, to pretty much mean any news that disagrees or is negative news about the user. Famously, Donald Trump tweeted:
     "The Fake News is working overtime. Just reported that, despite the tremendous success we are having with the economy & all things else, 91% of the Network News about me is negative (Fake). Why do we work so hard in working with the media when it is corrupt? Take away credentials?"
-    "Fake News" is now a term used to discredit any form of criticism, and is exarcerbating the political divide as both sides dismiss the opposing side as false, reducing any form of engagement between the two sides, which has been shown by political psychologists to help reduce political polarization. (https://greatergood.berkeley.edu/article/item/what_are_the_solutions_to_political_polarization)
+    "Fake News" is now a term used to discredit any form of criticism, and is exarcerbating the political divide as both sides dismiss the opposing side as false, reducing any form of engagement between the two sides, which has been shown by political psychologists to help [reduce political polarization](https://greatergood.berkeley.edu/article/item/what_are_the_solutions_to_political_polarization).
 
 ## The Datasets 
 
