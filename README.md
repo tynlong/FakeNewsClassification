@@ -1,3 +1,4 @@
+# Fake News Classification 
 ## Original Motivation 
   The original motivation for this project was a rather naive(though knowingly so) one. Wouldn't it be great if with my amazing new data science skills, I could solve such a dangerous and scary problem like fake news? It had worked pretty amazingly well with my satire detector, why shouldn't it do so for fake news? 
   
