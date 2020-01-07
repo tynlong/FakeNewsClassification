@@ -46,14 +46,9 @@ In this project, we look at one dataset of each kind:
 **Type A dataset: MisInfoText, Buzzfeed Dataset (2019)**
     Fatemeh Torabi Asr and Maite Taboada (2019) MisInfoText. A collection of news articles, with false and true labels. Dataset.
 
-The data for this source was first taken from various Facebook groups by three Buzzfeed reporters, and were labeled with 4 classes:
+The data for this source was first taken from various Facebook groups by three Buzzfeed reporters, and were labeled with 4 classes of truth level. The authors of this dataset then followed the URLs in the first dataset, and scraped the full text of each news article from its original source. The resulting dataset includes a total of 1380 news articles on a focused topic (US election and candidates). 
 
-        -Mostly True
-        -Mixture of True and False
-        -Mostly False
-        -No Factual Content
-
-The authors of this dataset then followed the URLs in the first dataset, and scraped the full text of each news article from its original source. The resulting dataset includes a total of 1380 news articles on a focused topic (US election and candidates). Veracity labels come in a four-way classification scheme including 1090 mostly true, 170 mixture of true and false, 64 mostly false and 56 articles containing no factual content.
+Veracity labels come in a four-way classification scheme including 1090 mostly true, 170 mixture of true and false, 64 mostly false and 56 articles containing no factual content.
 
 | Type | Count |
 | ------------- |:-------------:|
@@ -86,6 +81,8 @@ Part 1 of the project deals with the Type A dataset example, which is focused on
 
 Part 2 of the project deals with using Type B datasets to classify news websites outside of the dataset.
 
+## Part 1
+## Part 2
 
 ## Acknowledgments
 - [http://www.opensources.co/](http://www.opensources.co/)
