@@ -4,7 +4,7 @@
   
   I set out with three (rather ambitious) goals for my machine learning model in mind:
   - Be able to detect fake news
-  - Can be trusted irrespective of pollitical orientation
+  - Can be trusted irrespective of political orientation
   - A model that could generalize across other datasets
   
   Even as I built my models and cleaned my data, the challenges in creating my model became very much apparent, but first, some research on the problem:
